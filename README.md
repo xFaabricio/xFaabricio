@@ -38,6 +38,10 @@ Atualmente trabalho na [Positron](https://www.positron.com.br/), também trabalh
 
 <a href="https://www.sevenheads.com.br/" target="_blank"><img src="https://www.sevenheads.com.br/images/logo/logo.png" target="_blank"></a>
 
+  ##
+  
+![Snake animation](https://github.com/xFaabricio/xFaabricio/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **xFaabricio/xFaabricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
