@@ -36,7 +36,7 @@ Atualmente sou Desenvolvedor Full Stack, apesar de mexer com um pouco de tudo mi
 
 Atualmente trabalho na [Positron](https://www.positron.com.br/), também trabalho em uma empresa que estou tentando começar que é a [SevenHeads](https://www.sevenheads.com.br/).
 
-<a href="https://www.sevenheads.com.br/" target="_blank"><img src="https://www.sevenheads.com.br/images/logo/footer-logo.png" target="_blank"></a>
+<a href="https://www.sevenheads.com.br/" target="_blank"><img src="https://system.sevenheads.com.br/javax.faces.resource/images/Logo-SevenHeads-Porps.svg.xhtml?ln=paradise-layout" target="_blank"></a>
 
   ##
   
