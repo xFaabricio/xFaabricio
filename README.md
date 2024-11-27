@@ -46,6 +46,8 @@ Atualmente trabalho na [Positron](https://www.positron.com.br/), também trabalh
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xFaabricio/xFaabricio/output/github-contribution-grid-snake.svg">
 </picture>
 
+<a href="https://codeium.com/profile/xfaabricio"><img src="https://exafunction.github.io/public/brand/codeium_logo_light_wordmark.png" width="250" target="_blank"></a>
+
 <!--
 **xFaabricio/xFaabricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
